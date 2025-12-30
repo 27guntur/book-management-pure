@@ -139,5 +139,3 @@ This project is open-source and free to use.
 ---
 
 🚀 **Developed with Node.js and MongoDB**
-
-## Note for future update
